@@ -25,6 +25,6 @@ app.use('/sources', sources);
 app.use('/cat', cat);
 app.use('/catDetail',catDetail);
 
-app.listen(8089, function () {
-    console.log('listening 8089')
+app.listen(8080, function () {
+    console.log('listening 8080')
 });

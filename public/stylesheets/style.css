@@ -89,10 +89,26 @@ li {
     display: block
 }
 
+
 .header .chapterTitle {
     font-size: .24rem;
 }
 
+
+.footer {
+    font-size: .3rem;
+    font-weight: bold;
+    margin-bottom: .3rem;
+    text-align: center
+}
+.footer small {
+    font-size: .1rem;
+    font-weight: normal;
+    display: block
+}
+.footer small a{
+    color: #7FFFD4 
+}
 .error {
     font-size: 0.17rem;
     text-align: center

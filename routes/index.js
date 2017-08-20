@@ -6,7 +6,7 @@ router.get('/', function (req, res) {
         isShowNav:true,
         isShowCategory:false,
         title: '首页',
-        subtitle: '拒绝广告<small>请搜索您想看的小说</small>',
+        subtitle: '长兴小说',
         content: '请搜索'
     })
 });
